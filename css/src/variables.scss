@@ -1,0 +1,364 @@
+:root {
+	--font-montserrat: "Montserrat", sans-serif;
+	--font-rodetta: "Rodetta";
+	--font-dating: "Dating";
+	--font-hello: "Hello";
+	--font-hatton: "PP Hatton";
+	--font-bacalisties: "Bacalisties";
+	--font-bosque: "BOSQUE";
+	--FFF: #fff;
+	--000: #000;
+	--333: #333;
+	--FFF: #fff;
+	--666: #666;
+
+	--A48136: #a48136;
+	--c19a74: #c19a74;
+	--ac9883: #ac9883;
+	--4f4f4f: #4f4f4f;
+
+	--e5dece: #e5dece;
+	--e0d0c0: #e0d0c0;
+}
+
+.color {
+	&--transparent {
+		color: transparent !important;
+	}
+	&--FFF {
+		color: var(--FFF) !important;
+	}
+	&--000 {
+		color: var(--000) !important;
+	}
+	&--333 {
+		color: var(--333) !important;
+	}
+	&--FFF {
+		color: var(--FFF) !important;
+	}
+	&--666 {
+		color: var(--666) !important;
+	}
+	&--A48136 {
+		color: var(--A48136) !important;
+	}
+	&--c19a74 {
+		color: var(--c19a74) !important;
+	}
+	&--AC9883 {
+		color: var(--AC9883) !important;
+	}
+	&--4F4F4F {
+		color: var(--4F4F4F) !important;
+	}
+	&--E5DECE {
+		color: var(--E5DECE) !important;
+	}
+	&--E0D0C0 {
+		color: var(--E0D0C0) !important;
+	}
+}
+
+.heading {
+	&--18 {
+		color: var(--4f4f4f);
+		-webkit-text-stroke-width: 0.5px;
+		font-family: var(--font-dating);
+		font-size: 14px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 28px;
+		letter-spacing: 1.8px;
+		text-transform: uppercase;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 18px;
+		}
+	}
+
+	&--20 {
+		color: var(--4f4f4f);
+		font-family: var(--font-dating);
+		font-size: 16px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 22px;
+		letter-spacing: 1px;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 20px;
+			letter-spacing: 2px;
+			line-height: 26px;
+		}
+	}
+
+	&--24 {
+		color: var(--4f4f4f);
+		-webkit-text-stroke-width: 0.5px;
+		font-family: var(--font-dating);
+		font-size: 18px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 22px;
+		letter-spacing: 1.2px;
+		text-transform: uppercase;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 24px;
+			line-height: 28px;
+			letter-spacing: 2.4px;
+		}
+	}
+
+	&--28 {
+		color: var(--4f4f4f);
+		font-family: var(--font-dating);
+		font-size: 20px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 20px;
+		letter-spacing: 1.8px;
+		text-transform: uppercase;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 28px;
+			line-height: 28px;
+			letter-spacing: 2.8px;
+		}
+	}
+
+	&--32 {
+		color: #a48136;
+		font-family: var(--font-dating);
+		font-size: 32px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		letter-spacing: 1.6px;
+		text-transform: uppercase;
+	}
+
+	&--54 {
+		color: var(--c19a74);
+		font-family: var(--font-hello);
+		font-size: 40px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 54px;
+		}
+	}
+
+	&-54 {
+		font-family: var(--font-dating);
+		color: var(--c19a74);
+		text-align: center;
+		font-size: 35px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		letter-spacing: 4.8px;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 54px;
+			letter-spacing: 10.8px;
+		}
+	}
+
+	&--76 {
+		color: var(--c19a74);
+		font-family: var(--font-hello);
+		font-size: 46px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 76px;
+		}
+	}
+
+	&--92 {
+		color: var(--c19a74);
+		font-family: var(--font-hello);
+		font-size: 44px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 92px;
+		}
+	}
+
+	&--96 {
+		color: var(--c19a74);
+		font-family: var(--font-dating);
+		font-size: 50px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		letter-spacing: 14px;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 92px;
+			letter-spacing: 19.2px;
+		}
+	}
+
+	&--112 {
+		color: var(--c19a74);
+		font-family: var(--font-hello);
+		font-size: 70px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 112px;
+		}
+	}
+}
+
+.button {
+	font-family: var(--font-dating);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: max-content;
+	padding: 11px 30px;
+	-webkit-text-stroke-width: 0.5px;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 28px;
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+	text-decoration: none;
+
+	@media only screen and (min-width: 1024px) {
+		font-size: 18px;
+	}
+
+	&--center {
+		margin: 0 auto;
+	}
+
+	&--primary {
+		width: 100%;
+		color: var(--4f4f4f);
+		border: 1px solid var(--4f4f4f);
+
+		@media only screen and (min-width: 1024px) {
+			max-width: 180px;
+		}
+	}
+
+	&--secondary {
+		width: 100%;
+		color: var(--A48136);
+		border: 1px solid var(--A48136);
+		background-color: transparent;
+
+		@media only screen and (min-width: 1024px) {
+			min-width: 270px;
+		}
+
+		&-small {
+			max-width: 180px;
+		}
+	}
+}
+
+.space {
+	display: block;
+	width: 100%;
+
+	&--10 {
+		height: 10px;
+	}
+
+	&--20 {
+		height: 20px;
+	}
+
+	&--54 {
+		height: 54px;
+	}
+
+	&--200 {
+		height: 80px;
+
+		@media only screen and (min-width: 1024px) {
+			height: 200px;
+		}
+	}
+}
+
+.line {
+	display: block;
+
+	&--small {
+		width: 85px;
+		height: 1px;
+		margin: 0 auto;
+		background-color: var(--A48136);
+	}
+
+	&--left {
+		margin: 0;
+	}
+}
+
+.grid {
+	display: grid;
+
+	&--2 {
+		@media only screen and (min-width: 1024px) {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+}
+
+.spacing {
+	&--1 {
+		letter-spacing: 1px;
+	}
+
+	&--5 {
+		letter-spacing: 2.4px;
+		@media only screen and (min-width: 1024px) {
+			letter-spacing: 4.8px;
+		}
+	}
+
+	&--6 {
+		letter-spacing: 3px;
+
+		@media only screen and (min-width: 1024px) {
+			letter-spacing: 6px;
+		}
+	}
+}
+
+.text {
+	&--center {
+		text-align: center;
+	}
+}
+
+.desktop {
+	display: none;
+	@media only screen and (min-width: 1024px) {
+		display: block;
+	}
+}
+
+.mobile {
+	@media only screen and (min-width: 1024px) {
+		display: none;
+	}
+}
