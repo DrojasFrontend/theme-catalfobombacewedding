@@ -1154,3 +1154,69 @@ input[type="radio"]:checked + span:before {
 		letter-spacing: 4.2px;
 	}
 }
+
+.slick {
+	&-dots {
+		li {
+			width: 10px;
+
+			button:before {
+				font-size: var(--11);
+			}
+		}
+	}
+
+	&-next,
+	&-prev {
+		width: 20px;
+		height: 27px;
+		z-index: 1;
+		top: 50%;
+	}
+
+	&-next {
+		right: 0;
+
+		@media only screen and (min-width: 1024px) {
+			right: -20px;
+		}
+
+		&:before {
+			display: block;
+			width: 20px;
+			height: 27px;
+			font-size: 0;
+			background: url("../../img/arrow-next.svg");
+			background-repeat: no-repeat;
+			background-size: 16px;
+		}
+	}
+
+	&-prev {
+		left: 0;
+		@media only screen and (min-width: 1024px) {
+			left: -20px;
+		}
+
+		&::before {
+			display: block;
+			width: 20px;
+			height: 27px;
+			font-size: 0;
+			background: url("../../img/arrow-prev.svg");
+			background-repeat: no-repeat;
+			background-size: 16px;
+		}
+	}
+
+	&-dotted {
+		padding-bottom: 40px;
+	}
+}
+
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus {
+	background: none !important;
+}
