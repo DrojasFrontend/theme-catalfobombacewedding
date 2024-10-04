@@ -77,14 +77,14 @@
                 <p class="heading--54 text--center">Dress Code</p>
                 <p class="heading--18 color--c19a74 text--center">ETIQUETA</p>
                 <div class="space space--10"></div>
-                <button type="button" class="button button--secondary button--center">TUXEDO | vestido largo</button>
+                <button type="button" class="button button--secondary button--center" data-open-modal="modal-1">TUXEDO | vestido largo</button>
                 <div class="space space--54 mobile"></div>
             </div>
             <div>
                 <p class="heading--54 text--center">Regalos</p>
                 <p class="heading--18 color--transparent text--center desktop">ETIQUETA</p>
                 <div class="space space--10"></div>
-                <button type="button" class="button button--secondary button--center">HAZ CLICK AQUI</button>
+                <button type="button" class="button button--secondary button--center" data-open-modal="modal-2">HAZ CLICK AQUI</button>
             </div>
         </div>
     </div>

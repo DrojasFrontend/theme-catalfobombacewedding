@@ -19,6 +19,7 @@
 
 	--e5dece: #e5dece;
 	--e0d0c0: #e0d0c0;
+	--959595: #959595;
 }
 
 .color {
@@ -57,6 +58,9 @@
 	}
 	&--E0D0C0 {
 		color: var(--E0D0C0) !important;
+	}
+	&--959595 {
+		color: var(--959595) !important;
 	}
 }
 
@@ -319,6 +323,7 @@
 	&--2 {
 		@media only screen and (min-width: 1024px) {
 			grid-template-columns: repeat(2, 1fr);
+			column-gap: 40px;
 		}
 	}
 }
