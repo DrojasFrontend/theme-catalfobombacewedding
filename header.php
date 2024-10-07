@@ -52,10 +52,10 @@
   <nav>
     <ul class="header__menu">
       <li><a class="header__link" href="/nuestra-boda">NUESTRA BODA</a></li>
-      <li><a class="header__link" href="/r-s-v-p">R.S.V.P.</a></li>
+      <li><a class="header__link" href="/#pre-boda">PRE-BODA</a></li>
       <li><a class="header__link-logo" href="/">ROSANGELA Y GIANPAOLO</a></li>
       <li><a class="header__link" href="/#cartagena">CARTAGENA</a></li>
-      <li><a class="header__link" href="">RECOMENDACIONES</a></li>
+      <li><a class="header__link" href="/r-s-v-p">R.S.V.P.</a></li>
     </ul>
   </nav>
   <button type="button" class="header__button" data-toggle-menu>
@@ -70,10 +70,10 @@
   <nav>
     <ul class="header__menu">
       <li><a class="header__link" href="/nuestra-boda">NUESTRA BODA</a></li>
-      <li><a class="header__link" href="/r-s-v-p">R.S.V.P.</a></li>
-      <li><a class="heading--32" href="/">ROSANGELA Y GIANPAOLO</a></li>
+      <li><a class="header__link" href="/pre-boda">PRE-BODA</a></li>
+      <li><a class="header__link-logo" href="/">ROSANGELA Y GIANPAOLO</a></li>
       <li><a class="header__link" href="/#cartagena">CARTAGENA</a></li>
-      <li><a class="header__link" href="">RECOMENDACIONES</a></li>
+      <li><a class="header__link" href="/r-s-v-p">R.S.V.P.</a></li>
     </ul>
   </nav>
 </section>

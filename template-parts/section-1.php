@@ -54,7 +54,7 @@
 
         <div class="space space--20"></div>
 
-        <a href="#" class="button button--primary button--center">VER MAPA</a>
+        <a href="https://maps.app.goo.gl/SNYybVQAGnqoErAQA" class="button button--primary button--center" target="_blank">VER MAPA</a>
 
         <div class="space space--20"></div>
 
@@ -67,7 +67,7 @@
 
         <div class="space space--20"></div>
 
-        <a href="#" class="button button--primary button--center">VER MAPA</a>
+        <a href="https://maps.app.goo.gl/A53oBsvU7NEauve2A" class="button button--primary button--center" target="_blank">VER MAPA</a>
 
         <div class="space space--20"></div>
         <div class="space space--20"></div>

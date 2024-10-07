@@ -1,4 +1,4 @@
-<section class="section2">
+<section class="section2" id="pre-boda">
   <div class="section2__img">
     <img src="<?php echo IMG_BASE . 'img-2.webp'?>" alt="">
   </div>
@@ -14,7 +14,7 @@
     <div class="space space--10"></div>
     <p class="heading--24 text--center">5:30 P.M.</p>
     <div class="space space--10"></div>
-    <a href="#" class="button button--primary button--center">VER MAPA</a>
+    <a href="https://maps.app.goo.gl/Zezei67AQy4ZSah5A" class="button button--primary button--center" target="_blank">VER MAPA</a>
     <div class="space space--54"></div>
     <p class="heading--54 text--center">Dress Code</p>
     <div class="space space--10"></div>
