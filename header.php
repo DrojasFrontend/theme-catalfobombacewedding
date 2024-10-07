@@ -51,7 +51,7 @@
   </a>
   <nav>
     <ul class="header__menu">
-      <li><a class="header__link" href="/nuestra-boda">NUESTRA BODA</a></li>
+      <li><a class="header__link" href="/#nuestra-boda">NUESTRA BODA</a></li>
       <li><a class="header__link" href="/#pre-boda">PRE-BODA</a></li>
       <li><a class="header__link-logo" href="/">ROSANGELA Y GIANPAOLO</a></li>
       <li><a class="header__link" href="/#cartagena">CARTAGENA</a></li>
@@ -69,7 +69,7 @@
 <section class="menu-mobile" data-menu-mobile>
   <nav>
     <ul class="header__menu">
-      <li><a class="header__link" href="/nuestra-boda">NUESTRA BODA</a></li>
+      <li><a class="header__link" href="/#nuestra-boda">NUESTRA BODA</a></li>
       <li><a class="header__link" href="/pre-boda">PRE-BODA</a></li>
       <li><a class="header__link-logo" href="/">ROSANGELA Y GIANPAOLO</a></li>
       <li><a class="header__link" href="/#cartagena">CARTAGENA</a></li>
