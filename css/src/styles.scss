@@ -299,7 +299,7 @@ body {
 	&__link {
 		position: relative;
 		display: block;
-		padding: 0 25px;
+		padding: 0 22px;
 		color: var(--4F4F4F);
 		text-align: center;
 		font-size: 22px;
@@ -308,8 +308,12 @@ body {
 		line-height: normal;
 		letter-spacing: 2.2px;
 		text-decoration: none;
+		text-transform: uppercase;
 
 		&-logo {
+			font-size: 30px;
+			font-family: var(--font-dating);
+			color: #a48136;
 			text-decoration: none;
 		}
 
@@ -323,7 +327,7 @@ body {
 		}
 
 		@media only screen and (min-width: 1024px) {
-			padding: 0 25px;
+			padding: 0 22px;
 			font-size: 18px;
 
 			&-logo {
@@ -336,6 +340,7 @@ body {
 				line-height: normal;
 				letter-spacing: 1.6px;
 				text-transform: uppercase;
+				padding-left: 40px;
 
 				@media only screen and (min-width: 1024px) {
 					font-size: 20px;
@@ -496,7 +501,7 @@ body {
 			display: flex;
 			flex-direction: row;
 			justify-content: center;
-			column-gap: 10px;
+			column-gap: 25px;
 
 			@media only screen and (min-width: 1024px) {
 				column-gap: 90px;
@@ -507,9 +512,10 @@ body {
 				flex-direction: column;
 				justify-content: space-between;
 				color: var(--ac9883);
-				font-size: 80px;
+				font-size: 60px;
 				font-weight: 400;
 				line-height: normal;
+				text-align: center;
 
 				@media only screen and (min-width: 1024px) {
 					font-size: 210px;

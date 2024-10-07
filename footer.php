@@ -10,7 +10,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-          <img class="modal-image" src="<?php echo IMG_BASE . 'img-3.webp' ?>" alt="" id="" />
+          <img class="modal-image" src="<?php echo IMG_BASE . 'tuxedo.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>
@@ -25,7 +25,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-        <img class="modal-image" src="<?php echo IMG_BASE . 'img-3.webp' ?>" alt="" id="" />
+        <img class="modal-image" src="<?php echo IMG_BASE . 'white-formal.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>
@@ -39,7 +39,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-        <img class="modal-image" src="<?php echo IMG_BASE . 'img-3.webp' ?>" alt="" id="" />
+        <img class="modal-image" src="<?php echo IMG_BASE . 'white-formal.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>

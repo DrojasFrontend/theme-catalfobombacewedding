@@ -25,7 +25,7 @@
         <div class="space space--20"></div>
 
         <p class="heading--24 spacing--5 text--center" id="nuestra-boda">tienen el honor de invitarle(s)</p>
-        <p class="heading--24 spacing--5 text--center">al matrimonio eclesiástico de sus hijos.</p>
+        <p class="heading--24 spacing--5 text--center">al matrimonio eclesiástico de sus hijos</p>
 
         <div class="space space--54"></div>
 
