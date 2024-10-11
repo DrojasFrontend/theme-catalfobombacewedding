@@ -24,14 +24,14 @@
         <div class="space space--20"></div>
         <div class="space space--20"></div>
 
-        <p class="heading--24 spacing--5 text--center" id="nuestra-boda">tienen el honor de invitarle(s)</p>
+        <p class="heading--24 spacing--5 text--center">tienen el honor de invitarle(s)</p>
         <p class="heading--24 spacing--5 text--center">al matrimonio eclesiástico de sus hijos</p>
 
         <div class="space space--54"></div>
 
         <h2 class="heading--112 text--center">Rosangela</h2>
         <p class="heading--112 text--center">&</p>
-        <p class="heading--112 text--center">Gian Paolo</p>
+        <p class="heading--112 text--center" id="nuestra-boda">Gian Paolo</p>
 
         <div class="space space--20"></div>
 
@@ -64,6 +64,7 @@
 
         <p class="heading--24 text--center">CENTRO DE CONVENCIONES </p>
         <p class="heading--24 text--center">CARTAGENA DE INDIAS</p>
+        <p class="heading--24 text--center">6:00 P.M</p>
 
         <div class="space space--20"></div>
 

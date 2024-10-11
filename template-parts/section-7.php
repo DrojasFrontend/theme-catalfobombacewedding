@@ -545,9 +545,9 @@ $places = [
 <section class="sectionCartagena">
   <div class="">
     <?php foreach ($places as $category) { ?>
-      <div class="sectionCartagena__slick">
+      <div class="sectionCartagena__slick" id="<?php echo $category['id']; ?>">
         <div class="bckg"></div>
-        <h2 class="heading-54 color--c19a74 uppercase" id="<?php echo $category['id']; ?>">
+        <h2 class="heading-54 color--c19a74 uppercase">
           <?php echo $category['title_es']; ?>
         </h2>
         <div class="space space--54 desktop"></div>

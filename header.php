@@ -54,7 +54,17 @@
       <li><a data-link class="header__link" href="/#nuestra-boda">NUESTRA BODA</a></li>
       <li><a data-link class="header__link" href="/#pre-boda">Welcome cocktail</a></li>
       <li><a data-link class="header__link-logo" href="/">ROSANGELA Y GIANPAOLO</a></li>
-      <li><a data-link class="header__link" href="/#cartagena">CARTAGENA</a></li>
+      <li>
+        <a data-link class="header__link" href="/#cartagena">CARTAGENA</a>
+        <ul>
+          <li><a href="/#hoteles">Hoteles</a></li>
+          <li><a href="/#restaurantes">Restaurantes</a></li>
+          <li><a href="/#bares">Bares & Pubs</a></li>
+          <li><a href="/#postres">Brunch & Postres</a></li>
+          <li><a href="/#boutiques">Boutiques</a></li>
+          <li><a href="/#salones">Salones de Belleza</a></li>
+        </ul>
+      </li>
       <li><a data-link class="header__link" href="/r-s-v-p">R.S.V.P.</a></li>
     </ul>
   </nav>
@@ -72,7 +82,17 @@
       <li><a data-link class="header__link" href="/#nuestra-boda">NUESTRA BODA</a></li>
       <li><a data-link class="header__link" href="/pre-boda">Welcome cocktail</a></li>
       <li><a data-link class="header__link-logo" href="/">ROSANGELA Y GIANPAOLO</a></li>
-      <li><a data-link class="header__link" href="/#cartagena">CARTAGENA</a></li>
+      <li>
+        <a data-link class="header__link" href="/#cartagena">CARTAGENA</a>
+        <ul>
+          <li><a data-link href="/#hoteles">Hoteles</a></li>
+          <li><a data-link href="/#restaurantes">Restaurantes</a></li>
+          <li><a data-link href="/#bares">Bares & Pubs</a></li>
+          <li><a data-link href="/#postres">Brunch & Postres</a></li>
+          <li><a data-link href="/#boutiques">Boutiques</a></li>
+          <li><a data-link href="/#salones">Salones de Belleza</a></li>
+        </ul>
+      </li>
       <li><a data-link class="header__link" href="/r-s-v-p">R.S.V.P.</a></li>
     </ul>
   </nav>

@@ -17,9 +17,9 @@
     <a href="https://maps.app.goo.gl/Zezei67AQy4ZSah5A" class="button button--primary button--center" target="_blank">VER MAPA</a>
     <div class="space space--54"></div>
     <p class="heading--54 text--center">Dress Code</p>
-    <p class="heading--18 color--c19a74 text--center">Etiqueta</p>
+    <!-- <p class="heading--18 color--c19a74 text--center">COCKTAIL</p> -->
     <div class="space space--10"></div>
-    <button type="button" class="button button--secondary button--secondary-small button--center" data-open-modal="modal-3">BLANCO FORMAL</button>
+    <button type="button" class="button button--secondary button--secondary-small button--center" data-open-modal="modal-3">COCKTAIL</button>
   </div>
 
   <div class="space space--54"></div>
@@ -30,9 +30,9 @@
     <div class="space space--20"></div>
     <p class="heading--24 text--center">¡CELEBRA CON NOSOTROS!</p>
     <div class="space space--10"></div>
-    <p class="heading--20 text--center">Por favor confirmar asistencia <br> antes del 15 de DICIEMBRE, 2024</p>
+    <p class="heading--20 text--center">Por favor confirmar asistencia <br> antes del 20 de ENERO, 2025</p>
     <div class="space space--20"></div>
-    <a href="#" class="button button--primary button--center">IR AHORA</a>
+    <a href="/r-s-v-p/" class="button button--primary button--center">IR AHORA</a>
     
   </div>
 </section>

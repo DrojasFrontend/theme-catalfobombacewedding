@@ -96,7 +96,11 @@ video {
 
 html {
 	scroll-behavior: smooth;
-	scroll-padding: 10px;
+	scroll-padding: 50px;
+
+	@media only screen and (min-width: 1024px) {
+		scroll-padding: 10px;
+	}
 }
 
 a,
@@ -183,7 +187,7 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	width: 100%;
-	padding: 5px 20px;
+	padding: 0 20px;
 	transition: all 0.4s ease;
 	height: 70px;
 	z-index: 11;
@@ -191,7 +195,7 @@ body {
 	@media only screen and (min-width: 1024px) {
 		justify-content: center;
 		height: 100px;
-		padding: 19px 5px;
+		padding: 0 5px;
 	}
 
 	&.is-scroll {
@@ -255,6 +259,7 @@ body {
 		display: none;
 		@media only screen and (min-width: 1024px) {
 			display: block;
+			height: 100%;
 		}
 	}
 
@@ -263,6 +268,7 @@ body {
 		grid-template-columns: 1fr 1fr auto 1fr 1fr;
 		align-items: center;
 		text-align: center;
+		height: 100%;
 
 		&-mobile {
 			width: 50px;
@@ -276,10 +282,59 @@ body {
 		}
 
 		li {
+			position: relative;
+
+			@media only screen and (min-width: 1024px) {
+				height: 100%;
+			}
+
+			&:hover {
+				ul {
+					opacity: 1;
+					visibility: visible;
+				}
+			}
+
 			&:first-child {
 				a {
 					&::after {
 						display: none;
+					}
+				}
+			}
+
+			a {
+				@media only screen and (min-width: 1024px) {
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					height: 100%;
+				}
+			}
+
+			ul {
+				position: relative;
+				padding: 0 0 20px;
+				row-gap: 10px;
+
+				@media only screen and (min-width: 1024px) {
+					position: absolute;
+					width: 100%;
+					top: 100px;
+					padding: 10px 20px;
+					text-align: left;
+					background: #a48136a6;
+					opacity: 0;
+					visibility: hidden;
+					transition: opacity 0.2s ease;
+				}
+
+				a {
+					justify-content: flex-start;
+					padding: 5px 0;
+					color: var(--4f4f4f);
+					@media only screen and (min-width: 1024px) {
+						color: var(--FFF);
 					}
 				}
 			}
@@ -453,6 +508,7 @@ body {
 		}
 
 		&__text {
+			position: relative;
 			padding: 0 24px;
 		}
 	}

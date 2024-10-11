@@ -8,10 +8,7 @@ $slides = [
   ],
   [
     "img" => IMG_BASE . 'slick/slide-3.png',
-  ],
-  [
-    "img" => IMG_BASE . 'slick/slide-1.png',
-  ],
+  ]
 ]
 ?>
 <section class="section3">
