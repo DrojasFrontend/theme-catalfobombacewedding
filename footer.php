@@ -25,7 +25,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-        <img class="modal-image" src="<?php echo IMG_BASE . 'gift-regalo.webp' ?>" alt="" id="" />
+        <img class="modal-image" src="<?php echo IMG_BASE . 'regalos-bombace-new.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>

@@ -303,6 +303,12 @@ body {
 				}
 			}
 
+			&:last-child {
+				a {
+					border-bottom: 0;
+				}
+			}
+
 			a {
 				@media only screen and (min-width: 1024px) {
 					display: flex;
@@ -333,6 +339,7 @@ body {
 					justify-content: flex-start;
 					padding: 5px 0;
 					color: var(--4f4f4f);
+					border-bottom: 1px solid #ffffff61;
 					@media only screen and (min-width: 1024px) {
 						color: var(--FFF);
 					}
@@ -883,7 +890,8 @@ body {
 
 	&__body {
 		display: flex;
-		flex-direction: row;
+		flex-direction: column-reverse;
+		align-items: center;
 		position: relative;
 		width: auto;
 		height: 100%;
@@ -892,6 +900,8 @@ body {
 		text-align: center;
 
 		@media only screen and (min-width: 1024px) {
+			flex-direction: row;
+			align-items: flex-start;
 		}
 
 		img {
