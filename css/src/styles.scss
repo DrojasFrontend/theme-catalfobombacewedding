@@ -891,10 +891,10 @@ body {
 	&__body {
 		display: flex;
 		flex-direction: column-reverse;
-		align-items: center;
+		align-items: flex-end;
 		position: relative;
 		width: auto;
-		height: 100%;
+		height: auto;
 		margin: 0 auto;
 		padding: 50px 0;
 		text-align: center;
@@ -902,6 +902,7 @@ body {
 		@media only screen and (min-width: 1024px) {
 			flex-direction: row;
 			align-items: flex-start;
+			height: 100%;
 		}
 
 		img {
@@ -914,8 +915,8 @@ body {
 
 	button {
 		display: inline-block;
-		width: 40px;
-		height: 40px;
+		width: 30px;
+		height: 30px;
 		padding: 0;
 		border: 0;
 		background-color: transparent;
