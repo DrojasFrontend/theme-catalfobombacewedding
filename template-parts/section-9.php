@@ -66,7 +66,7 @@ $faqs = [
   ],
   [
     'question' => '¿Con quién puedo comunicarme si tengo questions adicionales sobre la boda?',
-    'answer' => 'Nuestro equipo de planeación, Mary Cueter Bodas & Eventos, está aquí para asistirte con cualquier question, consulta o consejo con tus planes! Contacto:  +57 321 849 2726 por teléfono/WhatsApp o por correo electrónico: <a href="mailto:rsvp@catalfobombacewedding.com">rsvp@catalfobombacewedding.com </a> <br> ¡No dudes en contactarlas para cualquier asistencia que necesites!',
+    'answer' => 'Nuestro equipo de planeación, Mary Cueter Bodas & Eventos, está aquí para asistirte con cualquier question, consulta o consejo con tus planes! Contacto:  +57 321 849 2726 por teléfono/WhatsApp o por correo electrónico: <a style="color: inherit;" href="mailto:rsvp@catalfobombacewedding.com">rsvp@catalfobombacewedding.com </a> <br> ¡No dudes en contactarlas para cualquier asistencia que necesites!',
   ]
 ]
 ?>
