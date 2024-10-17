@@ -66,7 +66,7 @@
           <li><a href="/#salones">Salones de Belleza</a></li>
         </ul>
       </li>
-      <li><a data-link class="header__link" href="#">F.A.Q.S</a></li>
+      <li><a data-link class="header__link" href="/f-a-q-s/">F.A.Q.S</a></li>
     </ul>
   </nav>
   <button type="button" class="header__button" data-toggle-menu>
@@ -95,7 +95,7 @@
           <li><a data-link href="/#salones">Salones de Belleza</a></li>
         </ul>
       </li>
-      <li><a data-link class="header__link" href="/r-s-v-p">F.A.Q.S.</a></li>
+      <li><a data-link class="header__link" href="/f-a-q-s/">F.A.Q.S.</a></li>
     </ul>
   </nav>
 </section>
