@@ -9,12 +9,12 @@
     <div class="space space--20"></div>
     <p class="heading--24 text--center">JUEVES, 27 DE FEBRERO 2025</p>
     <div class="space space--10"></div>
-    <p class="heading--24 text--center">Bar boticario</p>
-    <p class="heading--24 text--center">Sofitel Legend Santa Clara</p>
+    <p class="heading--24 text--center">EL BALUARTE </p>
+    <p class="heading--24 text--center">SAN FRANCISCO JAVIER</p>
     <div class="space space--10"></div>
     <p class="heading--24 text--center">5:30 P.M.</p>
     <div class="space space--10"></div>
-    <a href="https://maps.app.goo.gl/Zezei67AQy4ZSah5A" class="button button--primary button--center" target="_blank">VER MAPA</a>
+    <a href="https://maps.app.goo.gl/YLYhdtssVbJz2rtq6" class="button button--primary button--center" target="_blank">VER MAPA</a>
     <div class="space space--54"></div>
     <p class="heading--54 text--center">Dress Code</p>
     <!-- <p class="heading--18 color--c19a74 text--center">COCKTAIL</p> -->
