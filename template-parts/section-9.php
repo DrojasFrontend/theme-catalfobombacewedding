@@ -18,7 +18,7 @@
 //   ],
 //   [
 //     'question' => '¿Cómo estará el clima en Cartagena en esta época del año?',
-//     'answer' => 'Cartagena siempre es cálida y húmeda, con temperaturas típicamente entre 80-90°F (27-32°C). Marzo no es una temporada de lluvias intensas, pero son comunes las lluvias tropicales ocasionales. ¡Prepárate para el clima caluroso! ',
+//     'answer' => 'Cartagena siempre es cálida y húmeda, con temperaturas típicamente entre 80-90°F (27-32°C). Marzo no es una temporada de lluvias intensas, pero son comunes las lluvias tropicales ocasionales. ¡Prepárate para el clima caluroso!',
 //   ],
 //   [
 //     'question' => '¿Son bienvenidos los niños en la boda? Puedo llevar a mi propia niñera?',
@@ -38,7 +38,7 @@
 //   ],
 //   [
 //     'question' => '¿Cuál es la fecha límite para confirmar la asistencia (RSVP) para la boda?',
-//     'answer' => 'Por favor, confirma tu asistencia a los eventos en línea antes del 20 de Enero, 2025. ',
+//     'answer' => 'Por favor, confirma tu asistencia a los eventos en línea antes del 20 de Enero, 2025.',
 //   ],
 //   [
 //     'question' => '¿Tienen un registro de regalos para la boda?',
@@ -62,7 +62,7 @@
 //   ],
 //   [
 //     'question' => '¿Qué debo esperar al llegar al aeropuerto en Colombia?',
-//     'answer' => 'Al llegar, sigue las señales para inmigración y aduanas. Ten tu pasaporte y cualquier formulario requerido listo. Las opciones de transporte hacia tu alojamiento estarán disponibles en el aeropuerto. Recomendamos descargar la aplicación de Uber ya que te permite pagar con tarjeta de credito. Los taxis solo aceptan efectivo. Infórmale a nuestro equipo de planeación si deseas organizar tu transporte con anticipación. ',
+//     'answer' => 'Al llegar, sigue las señales para inmigración y aduanas. Ten tu pasaporte y cualquier formulario requerido listo. Las opciones de transporte hacia tu alojamiento estarán disponibles en el aeropuerto. Recomendamos descargar la aplicación de Uber ya que te permite pagar con tarjeta de credito. Los taxis solo aceptan efectivo. Infórmale a nuestro equipo de planeación si deseas organizar tu transporte con anticipación.',
 //   ],
 //   [
 //     'question' => '¿Con quién puedo comunicarme si tengo questions adicionales sobre la boda?',
@@ -80,8 +80,8 @@ $faqs = [
     'answer' => 'Cartagena siempre es cálida y húmeda, con temperaturas típicamente entre 80-90°F (27-32°C). Marzo no es una temporada de lluvias intensas, pero son comunes las lluvias tropicales ocasionales. ¡Prepárate para el clima caluroso!',
   ],
   [
-    'question' => '¿Son bienvenidos los niños en la boda?',
-    'answer' => 'Sí, los niños son bienvenidos. Si por favor déjanos saber en tu reserva si vienes con un niño',
+    'question' => '¿SON BIENVENIDOS LOS NIÑOS EN LA BODA?',
+    'answer' => 'SÍ, LOS NIÑOS SON BIENVENIDOS. POR FAVOR DÉJANOS SABER EN TU RESERVA SI VIENES CON UN NIÑO',
   ],
   [
     'question' => '¿La ceremonia y la recepción serán en espacios cerrados o al aire libre?',

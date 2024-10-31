@@ -9,7 +9,7 @@
     <div class="space space--20"></div>
     <p class="heading--24 text--center">JUEVES, 27 DE FEBRERO 2025</p>
     <div class="space space--10"></div>
-    <p class="heading--24 text--center">EL BALUARTE </p>
+    <p class="heading--24 text--center">BALUARTE </p>
     <p class="heading--24 text--center">SAN FRANCISCO JAVIER</p>
     <div class="space space--10"></div>
     <p class="heading--24 text--center">5:30 P.M.</p>

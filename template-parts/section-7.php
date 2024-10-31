@@ -7,6 +7,14 @@ $places = [
     "title_es" => "Hoteles",
     "places" => [
         [
+            "name" => "HOTEL INTERCONTINENTAL",
+            "address" => "Cra. 1 # 5 - 01",
+            "city" => "Cartagena, Colombia",
+            "phone" => "+57 (605) 6424250",
+            "link" => "https://www.intercartagena.com/",
+            "image" => IMG_BASE . 'places-cartagena/hoteles-0.webp',
+        ],
+        [
             "name" => "Sofitel Legend Santa Clara",
             "address" => "Calle Del Torno # 39 - 29",
             "city" => "Cartagena, Colombia",
